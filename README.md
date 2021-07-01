@@ -5,4 +5,4 @@
 -->
 👩‍🎓Técnica em Informática  <br>
 👩‍💻 Aluna de ADS no IFPB campus Cajazeiras <br>
-🖥️ djago e python
+🖥️ django e python
